@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.3cb1a523.css",
+    "main.js": "/robofriends/static/js/main.b52496e4.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/Spac3Tech-Dg7E.ttf": "/robofriends/static/media/Spac3Tech-Dg7E.cf91da6b0bee1e4d33d6.ttf",
+    "index.html": "/robofriends/index.html",
+    "main.3cb1a523.css.map": "/robofriends/static/css/main.3cb1a523.css.map",
+    "main.b52496e4.js.map": "/robofriends/static/js/main.b52496e4.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb1a523.css",
+    "static/js/main.b52496e4.js"
+  ]
+}
