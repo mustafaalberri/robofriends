@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Spac3 Tech;
+    src: url(Spac3Tech-Dg7E.ttf);
+}
+
+h1 {
+    font-family: Spac3 Tech;
+    color: rgb(2, 82, 2);
+}
+
+.loading {
+    font-family: sans-serif;
+    margin-top: 40vh;
+}
