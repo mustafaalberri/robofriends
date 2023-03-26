@@ -14,5 +14,5 @@
   padding: 7px;
   margin: 5px;
   width: 100%;
-  font-size: clamp(0.6rem, 0.75vw, 1rem);
+  font-size: clamp(0.6rem, 0.75vw, 1rem); 
 }
